@@ -12,7 +12,7 @@ composer require andresdevr/laravel-env-cli
 
 ## Usage
 
-```dos
+```bash
 php artisan env:set <name-of-your-variable> <the-value-assigment>
 ```
 
