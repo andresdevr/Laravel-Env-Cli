@@ -17,7 +17,7 @@
         "email": "andres22.dev@gmail.com"
     }],
     "require-dev": {
-        "orchestra/testbench": "^6.23"
+        "orchestra/testbench": "^5.0|^6.0"
     },
     "require": {
         "php": "^7.4|^8.0",
