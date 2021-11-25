@@ -1,5 +1,5 @@
 {
-    "name": "vagrant/laravel-env-cli",
+    "name": "andresdevr/laravel-env-cli",
     "description": "This package allows to update the .env file from your laravel project via terminal",
     "keywords": [
         "laravel",
