@@ -24,10 +24,8 @@ class EnvCliServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        if($this->app->runningInConsole()) {
-            $this->commands([
-                SetEnvVariable::class
-            ]);
-        }
+        $this->commands([
+            SetEnvVariable::class
+        ]);
     }
 }
